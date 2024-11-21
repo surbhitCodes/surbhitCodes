@@ -5,6 +5,7 @@
 - 📫 How to reach me ... e-mail: me@surbhitkumar.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I pivoted from a mid-senior eCommerce SCM role to specializing in AI, blending process optimization with cutting-edge technology.
+- 🌐 I log my work occasionally over here - https://www.surbhitkumar.com
 
 <!---
 surbhitCodes/surbhitCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
